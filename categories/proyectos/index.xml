@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proyectos on Jorge Gavilanes | Portfolio</title>
+    <link>https://jorgegavilanes.github.io/JorgeGavilanes/categories/proyectos/</link>
+    <description>Recent content in Proyectos on Jorge Gavilanes | Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 31 Mar 2021 23:27:08 -0500</lastBuildDate><atom:link href="https://jorgegavilanes.github.io/JorgeGavilanes/categories/proyectos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proyectos</title>
+      <link>https://jorgegavilanes.github.io/JorgeGavilanes/blog/proyectos/</link>
+      <pubDate>Wed, 31 Mar 2021 23:27:08 -0500</pubDate>
+      
+      <guid>https://jorgegavilanes.github.io/JorgeGavilanes/blog/proyectos/</guid>
+      <description>Mi nombre es Jorge Gavilanes, soy un joven emprendedor apasionado por la tecnología y el mundo digital, actualmente he desarrollado múltiples proyectos el cual trato de dar una solución con el fín de mejorar el mercado, entre mis proyectos están:</description>
+    </item>
+    
+    <item>
+      <title>GUPPYDIGITAL</title>
+      <link>https://jorgegavilanes.github.io/JorgeGavilanes/blog/guppydigital/</link>
+      <pubDate>Wed, 31 Mar 2021 14:04:21 -0500</pubDate>
+      
+      <guid>https://jorgegavilanes.github.io/JorgeGavilanes/blog/guppydigital/</guid>
+      <description>GuppyDigital es una agencia digital encargada del desarrollo de sitios web estáticos, responsives y minimalistas, identidad corporativa y edición de videos.</description>
+    </item>
+    
+    <item>
+      <title>GetCode_</title>
+      <link>https://jorgegavilanes.github.io/JorgeGavilanes/blog/getcode/</link>
+      <pubDate>Wed, 31 Mar 2021 12:56:40 -0500</pubDate>
+      
+      <guid>https://jorgegavilanes.github.io/JorgeGavilanes/blog/getcode/</guid>
+      <description>getCode_ es una idea que nace por aquellos estudiantes que se les dificulta la materia de programación, así que decidimos ayudar con sus códigos basados en la programación.</description>
+    </item>
+    
+    <item>
+      <title>ViewCube</title>
+      <link>https://jorgegavilanes.github.io/JorgeGavilanes/blog/viewcube/</link>
+      <pubDate>Wed, 31 Mar 2021 10:49:09 -0500</pubDate>
+      
+      <guid>https://jorgegavilanes.github.io/JorgeGavilanes/blog/viewcube/</guid>
+      <description>ViewCube es un proyecto llevado a cabo como una iniciativa, en el que se trata de dar una solución en cuanto al desarrollo de proyectos basados en el programa AutoCAD.</description>
+    </item>
+    
+  </channel>
+</rss>
