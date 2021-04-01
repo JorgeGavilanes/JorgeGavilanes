@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GuppyDigital on Jorge Gavilanes | Portfolio</title>
+    <link>https://jorgegavilanes.github.io/JorgeGavilanes/tags/guppydigital/</link>
+    <description>Recent content in GuppyDigital on Jorge Gavilanes | Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 31 Mar 2021 23:27:08 -0500</lastBuildDate><atom:link href="https://jorgegavilanes.github.io/JorgeGavilanes/tags/guppydigital/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proyectos</title>
+      <link>https://jorgegavilanes.github.io/JorgeGavilanes/blog/proyectos/</link>
+      <pubDate>Wed, 31 Mar 2021 23:27:08 -0500</pubDate>
+      
+      <guid>https://jorgegavilanes.github.io/JorgeGavilanes/blog/proyectos/</guid>
+      <description>Mi nombre es Jorge Gavilanes, soy un joven emprendedor apasionado por la tecnología y el mundo digital, actualmente he desarrollado múltiples proyectos el cual trato de dar una solución con el fín de mejorar el mercado, entre mis proyectos están:</description>
+    </item>
+    
+    <item>
+      <title>GUPPYDIGITAL</title>
+      <link>https://jorgegavilanes.github.io/JorgeGavilanes/blog/guppydigital/</link>
+      <pubDate>Wed, 31 Mar 2021 14:04:21 -0500</pubDate>
+      
+      <guid>https://jorgegavilanes.github.io/JorgeGavilanes/blog/guppydigital/</guid>
+      <description>GuppyDigital es una agencia digital encargada del desarrollo de sitios web estáticos, responsives y minimalistas, identidad corporativa y edición de videos.</description>
+    </item>
+    
+  </channel>
+</rss>
