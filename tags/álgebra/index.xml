@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Álgebra on Jorge Gavilanes | Portfolio</title>
+    <link>https://jorgegavilanes.github.io/JorgeGavilanes/tags/%C3%A1lgebra/</link>
+    <description>Recent content in Álgebra on Jorge Gavilanes | Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 31 Mar 2021 23:27:08 -0500</lastBuildDate><atom:link href="https://jorgegavilanes.github.io/JorgeGavilanes/tags/%C3%A1lgebra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clases Online</title>
+      <link>https://jorgegavilanes.github.io/JorgeGavilanes/blog/clasesprivadasonline/</link>
+      <pubDate>Wed, 31 Mar 2021 23:27:08 -0500</pubDate>
+      
+      <guid>https://jorgegavilanes.github.io/JorgeGavilanes/blog/clasesprivadasonline/</guid>
+      <description>Clases Privadas Online - Álgebra y programación es una idea que nace para nivelar a aquellos estudiantes en temas como la álgebra y programación.</description>
+    </item>
+    
+  </channel>
+</rss>
